@@ -1,6 +1,12 @@
 
-# Weather Bot
- 
+# 🌦️ Weather Bot
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![Aiogram](https://img.shields.io/badge/Aiogram-3.0%2B-green?logo=telegram)](https://docs.aiogram.dev/)
+[![Open-Meteo](https://img.shields.io/badge/Open--Meteo-API-blueviolet)](https://open-meteo.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Working-brightgreen)]()
+
 ## О проекте
 
 Этот телеграм-бот определяет текущую погоду в выбранном городе. Бот использует Open-Meteo API для получения координат и прогноза, а также возвращает:
