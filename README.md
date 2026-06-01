@@ -38,7 +38,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/SurenManukian/WeattherTelegramBot.git
 cd BotWeather
 ```
 
